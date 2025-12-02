@@ -1,5 +1,5 @@
 CACHE MANIFEST 
-# Generated on 16/06/2025 add etahen 2.2b full 21:05 #
+# Generated on 16/06/2025 add etahen 2.4b full 21:05 #
 
 3.00.js 
 3.10.js 
@@ -29,6 +29,7 @@ rop_slave.js
 rw.js 
 utils.js 
 webkit.js 
-payloads\etaHEN-22B.bin
+payloads\etaHEN-24B.bin
 NETWORK: 
 * 
+
